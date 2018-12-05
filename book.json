@@ -1,0 +1,13 @@
+{
+  "plugins" : [
+    "-sharing",
+    "toggle-chapters"
+  ],
+  "pluginsConfig" : {
+    "theme-default" : {
+      "showLevel" : true
+    }
+  },
+"language" : "zh-hans",
+  "title" : "悟家APP操作指南"
+}
