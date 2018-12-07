@@ -1,13 +1,13 @@
 # 荷马锁
 
-&emsp;&emsp;在设备列表或标签界面点击云智能门锁进入输入密码界面，输入正确密码后才能进入设备控制界面，将看到历史记录、临时密码、用户管理、设备信息。
+&emsp;&emsp;在设备列表或标签界面点击云智能门锁进入输入密码界面，输入正确密码后才能进入设备控制界面，将看到<font style='color:#ff0000;font-size:20px'>历史记录</font>、<font style='color:#ff0000;font-size:20px'>临时密码</font>、<font style='color:#ff0000;font-size:20px'>用户管理</font>、<font style='color:#ff0000;font-size:20px'>设备信息</font>。
 
 <img src="../images/MacBee/荷马锁/输入密码.png" width = "375" height = "667">
 
-1. 历史记录：记录该设备的所有操作
-2. 临时密码：设置临时密码。
-3. 用户管理：可以添加多个用户，为每个用户设置不同的密码。
+1. <font style='color:#3699ff;font-size:17px'>历史记录</font>：记录该设备的所有操作
+2. <font style='color:#3699ff;font-size:17px'>临时密码</font>：设置临时密码。
+3. <font style='color:#3699ff;font-size:17px'>用户管理</font>：可以添加多个用户，为每个用户设置不同的密码。
 
 	<img src="../images/MacBee/荷马锁/用户管理.png" width = "375" height = "667">
 	
-4. 设备信息：可以查看该设备的序列号、版本号等信息。
+4. <font style='color:#3699ff;font-size:17px'>设备信息</font>：可以查看该设备的序列号、版本号等信息。

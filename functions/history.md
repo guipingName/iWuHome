@@ -4,6 +4,6 @@
 
 <img src="./images/history/历史记录.png" width = "375" height = "667">
 
-&emsp;&emsp;您可以点击右上角的**设置**按钮设置历史记录存储期限以及清空历史记录。
+&emsp;&emsp;您可以点击右上角的<font style='color:#ff0000;font-size:20px'>设置</font>按钮设置历史记录存储期限以及清空历史记录。
 
 <img src="./images/history/设置.png" width = "375" height = "667">

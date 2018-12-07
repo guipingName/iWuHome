@@ -1,6 +1,6 @@
 # 语音控制
 
-&emsp;&emsp;点击**声控**进入语音控制界面。
+&emsp;&emsp;点击<font style='color:#ff0000;font-size:20px'>声控</font>进入语音控制界面。
 
 <img src="./images/voice/进入语音.png" width = "375" height = "667">
 
@@ -8,7 +8,7 @@
 
 <img src="./images/voice/按住说话.png" width = "375" height = "667">
 
-&emsp;&emsp;控制成功后会看到相应的提示信息
+&emsp;&emsp;控制成功后会看到相应的提示信息。
 
 <img src="./images/voice/控制成功.png" width = "375" height = "667">
 

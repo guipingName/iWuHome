@@ -2,7 +2,7 @@
 
 ## 新建家庭 ##
 
-&emsp;&emsp;点击首页左上方更多按钮打开侧边菜单栏，即可看到**新建家庭**入口。
+&emsp;&emsp;点击首页左上方<font style='color:#ff0000;font-size:20px'>更多</font>按钮打开侧边菜单栏，即可看到<font style='color:#ff0000;font-size:20px'>新建家庭</font>入口。
 
 <figure class="half">
     <img src="./images/home/新建家庭1.png" width = "375" height = "667">
@@ -12,20 +12,20 @@
 
 ## 分享家庭与加入家庭 ##
 
-&emsp;&emsp;第一步：点击首页或智能联动界面右上方的**分享**按钮，打开分享界面，通过显示的二维码即可将家庭分享给其他用户使用。
+&emsp;&emsp;第一步：点击首页或智能联动界面右上方的<font style='color:#ff0000;font-size:20px'>分享</font>按钮，打开分享界面，通过显示的二维码即可将家庭分享给其他用户使用。
 
 <figure class="half">
     <img src="./images/home/家庭1.png" width = "375" height = "667">
     <img src="./images/home/家庭2.png" width = "375" height = "667">
 </figure>
 
-&emsp;&emsp;第二步：在另外一个App上，点击App首页右上方**+**按钮，选择**扫一扫**选项，扫描上一步分享界面中的二维码，即可加入家庭，对该家庭内的设备远程控制。
+&emsp;&emsp;第二步：在另外一个App上，点击App首页右上方<font style='color:#ff0000;font-size:20px'>+</font>按钮，选择<font style='color:#ff0000;font-size:20px'>扫一扫</font>选项，扫描上一步分享界面中的二维码，即可加入家庭，对该家庭内的设备远程控制。
 <img src="./images/home/家庭3.png" width = "375" height = "667">
 
 
 ## 退出/删除家庭 ##
 
-&emsp;&emsp;点击首页左上方更多按钮打开侧边菜单栏，然后点击**编辑**按钮，打开编辑家庭界面，您可以看到**删除该家庭**（您创建的家庭）或**退出该家庭**（他人创建的家庭）按钮。
+&emsp;&emsp;点击首页左上方更多按钮打开侧边菜单栏，然后点击<font style='color:#ff0000;font-size:20px'>编辑</font>按钮，打开编辑家庭界面，您可以看到<font style='color:#ff0000;font-size:20px'>删除该家庭</font>（您创建的家庭）或<font style='color:#ff0000;font-size:20px'>退出该家庭</font>（他人创建的家庭）按钮。
 
 <figure class="third">
     <img src="./images/home/编辑家庭.png" width = "375" height = "667">
@@ -36,7 +36,7 @@
 
 ## 修改家庭名称 ##
 
-&emsp;&emsp;在编辑家庭页面，您可以点击“家庭名称”，进入编辑页面，输入新的名称后点击保存即可。
+&emsp;&emsp;在编辑家庭页面，您可以点击<font style='color:#ff0000;font-size:20px'>家庭名称</font>，进入编辑页面，输入新的名称后点击保存即可。
 
 ## 成员验证 ##
 

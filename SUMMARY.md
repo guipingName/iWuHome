@@ -43,7 +43,7 @@
         * [汇泰龙门锁](DeviceFunction/MacBee/HTLLock.md)
         * [智能配电箱](DeviceFunction/MacBee/smartDistributionBox.md)
         * [情景遥控器](DeviceFunction/MacBee/sceneRemote.md)
-        * [友泰门锁](DeviceFunction/MacBee/YTLock.md)
+        * [智能门锁](DeviceFunction/MacBee/YTLock.md)
         * [暖气阀](DeviceFunction/MacBee/steamValve.md)
         * [RF窗帘](DeviceFunction/MacBee/rfCurtain.md)
         * [红外门磁](DeviceFunction/MacBee/irDoormagnet.md)

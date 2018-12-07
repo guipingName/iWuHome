@@ -1,13 +1,15 @@
 {
+  "language" : "zh-hans",
   "plugins" : [
     "-sharing",
-    "toggle-chapters"
+    "toggle-chapters",
+    "-search",
+    "search-pro"
   ],
   "pluginsConfig" : {
     "theme-default" : {
       "showLevel" : true
     }
   },
-"language" : "zh-hans",
   "title" : "悟家APP操作指南"
 }

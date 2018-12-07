@@ -8,17 +8,17 @@
 
 <img src="./images/interplay/联动首页.png" width = "375" height = "667">
 
-&emsp;&emsp;已添加过联动时，在联动界面会显示已添加的联动，您可以点击右上角**+**按钮创建新的联动。
+&emsp;&emsp;已添加过联动时，在联动界面会显示已添加的联动，您可以点击右上角<font style='color:#ff0000;font-size:20px'>+</font>按钮创建新的联动。
 
 <img src="./images/interplay/添加.png" width = "375" height = "667">
 
-&emsp;&emsp;创建完成以后您可以点击**试一试**查看联动效果。
+&emsp;&emsp;创建完成以后您可以点击<font style='color:#ff0000;font-size:20px'>试一试</font>查看联动效果。
 
 <img src="./images/interplay/试一试.png" width = "375" height = "667">
 
 
 ## 禁用、编辑、删除
 
-&emsp;&emsp;在智能联动界面左滑已经创建好的联动，即可看到禁用、编辑、删除选项。可以进行禁用、编辑、删除操作。
+&emsp;&emsp;在智能联动界面左滑已经创建好的联动，即可看到<font style='color:#ff0000;font-size:20px'>禁用</font>、<font style='color:#ff0000;font-size:20px'>编辑</font>、<font style='color:#ff0000;font-size:20px'>删除</font>选项。可以进行禁用、编辑、删除操作。
 
 <img src="./images/interplay/编辑.png" width = "375" height = "667">
