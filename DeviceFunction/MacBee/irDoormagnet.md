@@ -4,12 +4,12 @@
 
 1. <font style='color:#3699ff;font-size:17px'>控制面板</font>:您可以看到当前设备的状态，门打开或关闭，布防或撤防，同时，可以控制布防或撤防。
 
-	<img src="../images/MacBee/irDoorMagnet/控制界面.png" width = "375" height = "667">
+	<img src="../images/MacBee/红外门磁/控制界面.png" width = "375" height = "667">
 	
 2. <font style='color:#3699ff;font-size:17px'>历史记录</font>：您可以看到设备状态变化。
 3. <font style='color:#3699ff;font-size:17px'>设备设置</font>：
 
-	<img src="../images/MacBee/irDoorMagnet/设备设置.png" width = "375" height = "667">
+	<img src="../images/MacBee/红外门磁/设备设置.png" width = "375" height = "667">
 	
 	1. <font style='color:#3699ff;font-size:17px'>红外报警时间间隔</font>：您可以设置红外报警时间间隔。
 	2. <font style='color:#3699ff;font-size:17px'>帮助</font>：您可以在这里查看该设备相关的常见问题以及解决办法。
