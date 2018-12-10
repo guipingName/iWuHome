@@ -1,11 +1,11 @@
 # 系统设置
 
-&emsp;&emsp;您可以根据您的使用习惯对APP进行设置，比如语言、温度单位等。在设备列表页点击左上角<font style='color:#ff0000;font-size:20px'>更多</font>选项，您将看到<font style='color:#ff0000;font-size:20px'>设置</font>选项，点击进入。
+&emsp;&emsp;您可以根据您的使用习惯对App进行设置，比如语言、温度单位等。在设备列表页点击左上角<font style='color:#ff0000;font-size:20px'>☰</font>按钮进入侧边菜单栏，您将看到<font style='color:#ff0000;font-size:20px'>设置</font>选项，点击进入。
 
-<figure class="half">
-    <img src="./images/setting/设置入口.png" width = "375" height = "667">
-    <img src="./images/setting/设置选项.png" width = "375" height = "667">
-</figure>
+<img src="./images/setting/设置入口.png" width = "300" height = "534">
+
+<img src="./images/setting/设置选项.png" width = "300" height = "534">
+
 
 ## 声音
 
@@ -36,10 +36,11 @@
 
 &emsp;&emsp;该功能用于帮助分析问题。如果您在使用过程中遇到一些问题，您可以先启动该功能，然后再去重复之前的操作，再回到这个界面，点击<font style='color:#ff0000;font-size:20px'>网络诊断</font>，等动画停止以后点击右上角的<font style='color:#ff0000;font-size:20px'>上传</font>，以便我们帮您分析问题。
 
-<figure class="half">
-    <img src="./images/setting/诊断日志1.png" width = "375" height = "667">
-    <img src="./images/setting/诊断日志2.png" width = "375" height = "667">
-</figure>
+
+<img src="./images/setting/诊断日志1.png" width = "300" height = "534">
+    
+<img src="./images/setting/诊断日志2.png" width = "300" height = "534">
+
 
 ## 意见反馈
 

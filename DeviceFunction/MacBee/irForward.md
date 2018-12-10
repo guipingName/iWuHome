@@ -6,6 +6,6 @@
 
 1. 在空调面板界面点击<font style='color:#ff0000;font-size:20px'>更多</font>按钮，即可看到“匹配类型”选项。
 
-	<img src="../images/MacBee/红外转发器/匹配类型.png" width = "375" height = "667">
+	<img src="../images/MacBee/红外转发器/匹配类型.png" width = "290" height = "516">
 	
 2. 选择<font style='color:#ff0000;font-size:20px'>匹配类型</font>选项，进入匹配界面，按照提示操作完成匹配，即可用该设备控制空调

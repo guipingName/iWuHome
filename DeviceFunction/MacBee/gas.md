@@ -4,11 +4,11 @@
 
 1. <font style='color:#3699ff;font-size:17px'>控制面板</font>：查看设备的当前状态。
 
-	<img src="../images/MacBee/气感/控制界面.png" width = "375" height = "667">
+	<img src="../images/MacBee/气感/控制界面.png" width = "290" height = "516">
 	
 2. <font style='color:#3699ff;font-size:17px'>历史记录</font>：查看设备的历史记录。
 
-	<img src="../images/MacBee/气感/历史记录.png" width = "375" height = "667">
+	<img src="../images/MacBee/气感/历史记录.png" width = "290" height = "516">
 
 3. <font style='color:#3699ff;font-size:17px'>设备设置</font>：
 

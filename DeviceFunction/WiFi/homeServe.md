@@ -4,4 +4,4 @@
 
 &emsp;&emsp;结合<font style='color:#ff0000;font-size:20px'>悟云</font>APP可实现更多操作，在应用市场下载并安装<font style='color:#ff0000;font-size:20px'>悟云APP</font>，实现文件的上传与下载。
 
-<img src="../images/WiFi/家庭服务器/控制界面.png" width = "375" height = "667">
+<img src="../images/WiFi/家庭服务器/控制界面.png" width = "300" height = "534">

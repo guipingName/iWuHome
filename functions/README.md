@@ -1,2 +1,3 @@
-# 操作指南
+# 常用功能
 
+&emsp;&emsp;本章将详细介绍App的常用功能：<font style='color:#ff0000;font-size:20px'>家庭</font>、<font style='color:#ff0000;font-size:20px'>情景模式</font>、<font style='color:#ff0000;font-size:20px'>标签</font>、<font style='color:#ff0000;font-size:20px'>语音控制</font>、<font style='color:#ff0000;font-size:20px'>智能联动</font>、<font style='color:#ff0000;font-size:20px'>历史记录</font>、<font style='color:#ff0000;font-size:20px'>系统设置</font>。
