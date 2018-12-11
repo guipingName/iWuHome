@@ -10,4 +10,4 @@
 
 	<img src="../images/MacBee/荷马锁/用户管理.png" width = "262" height = "465">
 	
-4. <font style='color:#3699ff;font-size:17px'>设备信息</font>：可以查看该设备的序列号、版本号等信息。
+4. <font style='color:#3699ff;font-size:17px'>设备信息</font>：查看该设备的详细信息。

@@ -14,8 +14,3 @@
 	1. <font style='color:#3699ff;font-size:17px'>开锁密码</font>：设置智能门锁的开锁密码。
 	2. <font style='color:#3699ff;font-size:17px'>帮助</font>：查看该设备相关的常见问题及解决办法。
 	3. <font style='color:#3699ff;font-size:17px'>设备信息</font>：查看该设备的详细等信息。
-
-
-
-
-

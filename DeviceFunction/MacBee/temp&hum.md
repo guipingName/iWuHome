@@ -5,6 +5,7 @@
 1. <font style='color:#3699ff;font-size:17px'>控制面板</font>：您可以查看近10小时的温湿度曲线。您可以点击右上角的<font style='color:#ff0000;font-size:20px'>更多</font>按钮(部分设备支持)，查看<font style='color:#ff0000;font-size:20px'>帮助</font>和<font style='color:#ff0000;font-size:20px'>设备信息</font>。
 
 	<img src="../images/MacBee/温湿度感应器/控制界面1.png" width = "262" height = "465">
+	
 	<img src="../images/MacBee/温湿度感应器/控制界面2.png" width = "262" height = "465">
 	
 2. <font style='color:#3699ff;font-size:17px'>设备设置(部分设备支持)</font>：

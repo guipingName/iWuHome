@@ -1,6 +1,6 @@
 # RF窗帘
 
-&emsp;&emsp;在设备列表或者标签界面点击进入控制界面。您将看到<font style='color:#ff0000;font-size:20px'>控制面板</font>、<font style='color:#ff0000;font-size:20px'>定时设置</font>、<font style='color:#ff0000;font-size:20px'>设备设置</font>3个界面。
+&emsp;&emsp;在设备列表或者标签界面点击进入控制界面。您将看到<font style='color:#ff0000;font-size:20px'>控制面板</font>、<font style='color:#ff0000;font-size:20px'>定时设置</font>、<font style='color:#ff0000;font-size:20px'>设备设置</font>界面。
 
 1. <font style='color:#3699ff;font-size:17px'>控制面板</font>：控制窗帘的开启状态，全开、全关、开窗百分比。
 
@@ -12,7 +12,7 @@
 	<img src="../images/MacBee/窗帘/设备设置.png" width = "262" height = "465">
 	
 	1. <font style='color:#3699ff;font-size:17px'>绑定窗帘</font>：如果您的窗帘是两层的，您可以绑定另外一个窗帘电机，对窗帘进行同步控制。
-	2. <font style='color:#3699ff;font-size:17px'>行程限位</font>：您可以设置行程上限和行程下限。
+	2. <font style='color:#3699ff;font-size:17px'>行程限位</font>：设置窗帘的行程上限和行程下限。比如设置上限，首先点击<font style='color:#ff0000;font-size:20px'>设置上限</font>按钮，然后点击<font style='color:#ff0000;font-size:20px'>清除上限</font>按钮，再点击<font style='color:#ff0000;font-size:20px'>⇧</font>或<font style='color:#ff0000;font-size:20px'>⇩</font>按钮，此时窗帘会移动，待窗帘到达合适位置时点击<font style='color:#ff0000;font-size:20px'>||</font>按钮，然后点击<font style='color:#ff0000;font-size:20px'>设为上限</font>按钮。
 	
 		<img src="../images/MacBee/窗帘/行程限位.png" width = "234" height = "415">
 		

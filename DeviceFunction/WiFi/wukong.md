@@ -7,14 +7,17 @@
 
 	<img src="../images/WiFi/悟空/控制界面.png" width = "262" height = "465">
 	
+	部分设备支持学习功能，会显示一个<font style='color:#ff0000;font-size:30px'>+</font>按钮，您可以点击<font style='color:#ff0000;font-size:30px'>+</font>，根据提示添加学习功能。
 2. <font style='color:#3699ff;font-size:17px'>电量管家</font>：您可以查看近一年的电量以及详细信息。您还可以查看阶段电量并且可以清零。
 
 	<img src="../images/WiFi/悟空/电量管家.png" width = "262" height = "465">
+	
 	<img src="../images/WiFi/悟空/清零阶段电量.png" width = "262" height = "465">
 	
 3. <font style='color:#3699ff;font-size:17px'>设备设置</font>：
 
 	<img src="../images/WiFi/悟空/设备设置1.png" width = "262" height = "465">
+	
 	<img src="../images/WiFi/悟空/设备设置2.png" width = "262" height = "465">
 	
 	1. <font style='color:#3699ff;font-size:17px'>智能恒温</font>：开启该功能后，您可以设置在某一个时间段让空调保持在缪一个温度范围、模式。

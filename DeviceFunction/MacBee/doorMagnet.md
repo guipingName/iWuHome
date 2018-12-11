@@ -17,5 +17,3 @@
 	1. <font style='color:#3699ff;font-size:17px'>报警声音</font>：可以设置该设备报警的铃声及音量。
 	2. <font style='color:#3699ff;font-size:17px'> 帮助 </font>：查看该设备相关的常见问题以及解决办法。
 	3. <font style='color:#3699ff;font-size:17px'>设备信息</font>：查看该设备的详细信息。
-
-

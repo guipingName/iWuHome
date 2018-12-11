@@ -5,6 +5,7 @@
 1. <font style='color:#3699ff;font-size:17px'>色盘</font>：在这里您可以通过RGB或WC来控制灯的颜色。选择一种方式后点击色盘任意位置即可灯的颜色。同时还可以控制灯的亮度。
 
 	<img src="../images/WiFi/灯/RGB.png" width = "262" height = "465">
+	
 	<img src="../images/WiFi/灯/WC.png" width = "262" height = "465">
 	
 2. <font style='color:#3699ff;font-size:17px'>照片</font>：在这里默认提供了一张照片，您可以点击照片不同位子控制灯的颜色。您也可以点击右上角的<font style='color:#ff0000;font-size:20px'>+</font>从相册或拍照功能选择一张照片，然后从照片上选择颜色来控制灯。

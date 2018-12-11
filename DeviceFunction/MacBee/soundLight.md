@@ -5,6 +5,7 @@
 1. <font style='color:#3699ff;font-size:17px'>控制面板</font>：声光报警器有照明模式和警笛模式两种，警笛模式可以触发警笛报警，照明模式可以设置灯的状态。
 
     <img src="../images/MacBee/声光报警器/警笛模式.png" width = "262" height = "465">
+    
 	<img src="../images/MacBee/声光报警器/照明模式.png" width = "262" height = "465">
 	
 2. <font style='color:#3699ff;font-size:17px'>历史记录</font>：记录声光报警器灯的开关及报警等操作。

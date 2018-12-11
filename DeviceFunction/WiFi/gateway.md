@@ -9,6 +9,7 @@
 2. <font style='color:#3699ff;font-size:17px'>设备设置</font>：
 
 	<img src="../images/WiFi/网关/设备设置1.png" width = "262" height = "465">
+	
 	<img src="../images/WiFi/网关/设备设置2.png" width = "262" height = "465">
 	
 	1. <font style='color:#3699ff;font-size:17px'>报警设置</font>：您可以设备是否允许推送以及报警声音，当子设备报警才有效。

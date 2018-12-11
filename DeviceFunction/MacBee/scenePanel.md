@@ -12,5 +12,3 @@
 
 	<img src="../images/MacBee/情景面板/编辑按键.png" width = "262" height = "465">
 	
-
-	

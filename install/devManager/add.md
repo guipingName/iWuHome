@@ -23,5 +23,6 @@
 	
 3. 点击设备即可看到绑定选项，点击<font style='color:#ff0000;font-size:20px'>绑定</font>按钮，选择网关，即可绑定MacBee设备到该网关；也可在所选网关控制界面绑定MacBee设备。
 
-	<img src="../images/device/绑定1.png" width = "262" height = "465">    
+	<img src="../images/device/绑定1.png" width = "262" height = "465">
+	
 	<img src="../images/device/绑定2.png" width = "262" height = "465">

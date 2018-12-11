@@ -18,4 +18,3 @@
 	2.	<font style='color:#3699ff;font-size:17px'>创建桌面快捷方式(安卓版本支持)</font>：会在手机桌面生成一个设备的快捷入口。
 	3.	<font style='color:#3699ff;font-size:17px'>帮助</font>：查看该设备相关的常见问题以及解决办法。
 	4.	<font style='color:#3699ff;font-size:17px'>设备信息</font>：查看该设备的详细等信息。
-
