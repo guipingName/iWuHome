@@ -30,7 +30,7 @@
     * [历史记录](functions/history.md)
     * [系统设置](functions/appSetting.md)
 * [设备功能说明](DeviceFunction/README.md)
-    * [WiFi设备](DeviceFunction/WiFi/README.md)
+    * [Wi-Fi设备](DeviceFunction/WiFi/README.md)
         * [空调插座](DeviceFunction/WiFi/wukong.md)
         * [智能插座](DeviceFunction/WiFi/wuneng.md)
         * [灯](DeviceFunction/WiFi/light.md)

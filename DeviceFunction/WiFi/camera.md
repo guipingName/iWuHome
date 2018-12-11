@@ -2,7 +2,7 @@
 
 &emsp;&emsp;在设备列表或标签页面点击摄像头进入控制界面。轻点屏幕您可以看到当前的状态信息。
 
-<img src="../images/WiFi/摄像头/控制界面.png" width = "300" height = "534">
+<img src="../images/WiFi/摄像头/控制界面.png" width = "534" height = "300">
 
 1. 720P: 点击<font style='color:#ff0000;font-size:20px'>720P</font>，您可以设置视频的分辨率，720P、高清、普清。
 

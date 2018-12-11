@@ -33,9 +33,7 @@
 ## 修改密码 ##
 
 &emsp;&emsp;点击首页左上方<font style='color:#ff0000;font-size:20px'>☰</font>按钮打开侧边菜单栏，点击账号头像您可以看到<font style='color:#ff0000;font-size:20px'>修改密码</font>选项。
-
-<img src="./images/login/密码4.png" width = "300" height = "534">
-    
+ 
 <img src="./images/login/密码1.png" width = "300" height = "534">
     
 &emsp;&emsp;点击<font style='color:#ff0000;font-size:20px'>修改密码</font>按钮即可进入修改密码界面，按照要求输入旧密码和新密码，最后点击<font style='color:#ff0000;font-size:20px'>确定</font>按钮即可成功修改密码。

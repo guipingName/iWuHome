@@ -1,6 +1,6 @@
 # 执行情景
 
-&emsp;&emsp;在设备列表点击创建的情景模式，比如<font style='color:#ff0000;font-size:20px'>断电</font>。
+&emsp;&emsp;在设备列表点击创建的情景模式执行该情景模式，比如<font style='color:#ff0000;font-size:20px'>断电</font>。
 
 <img src="../images/scene/执行1.png" width = "300" height = "534">
 

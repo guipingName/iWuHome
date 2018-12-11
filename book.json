@@ -11,5 +11,8 @@
       "showLevel" : true
     }
   },
+"styles" : {
+    "website" : "styles/website.css"
+  },
   "title" : "悟家APP操作指南"
 }
