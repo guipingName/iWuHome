@@ -4,14 +4,24 @@
     "-sharing",
     "toggle-chapters",
     "-search",
-    "search-pro"
+    "search-pro",
+    "favicon"
   ],
   "pluginsConfig" : {
+    "favicon" : {
+      "appleTouch" : "assets/images/apple-touch-icon.png",
+      "appleTouchMore" : {
+        "120x120" : "assets/images/apple-touch-icon-120x120.png",
+        "180x180" : "assets/images/apple-touch-icon-180x180.png"
+      },
+      "bookmark" : "assets/images/favicon.ico",
+      "shortcut" : "assets/images/favicon.ico"
+    },
     "theme-default" : {
       "showLevel" : true
     }
   },
-"styles" : {
+  "styles" : {
     "website" : "styles/website.css"
   },
   "title" : "悟家APP操作指南"
