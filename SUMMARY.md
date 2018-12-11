@@ -1,6 +1,6 @@
 # Summary
 
-* [APP简介](README.md)
+* [App简介](README.md)
 * [入门指导](install/README.md)
     * [安装](install/install.md)
     * [登录/注册账号](install/login.md)

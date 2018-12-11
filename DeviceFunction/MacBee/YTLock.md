@@ -4,12 +4,12 @@
 
 1. <font style='color:#3699ff;font-size:17px'>控制面板</font>：显示智能门锁的开关状态、布防撤防状态；可以设置开锁、关锁、布防、撤防。
 
-	<img src="../images/MacBee/友泰门锁/控制界面.png" width = "290" height = "516">
+	<img src="../images/MacBee/友泰门锁/控制界面.png" width = "262" height = "465">
 
 2. <font style='color:#3699ff;font-size:17px'>历史记录</font>：显示该设备所有操作及报警记录。
 3. <font style='color:#3699ff;font-size:17px'>设备设置</font>：
 
-	<img src="../images/MacBee/友泰门锁/设备设置.png" width = "290" height = "516">
+	<img src="../images/MacBee/友泰门锁/设备设置.png" width = "262" height = "465">
 
 	1. <font style='color:#3699ff;font-size:17px'>开锁密码</font>：设置智能门锁的开锁密码。
 	2. <font style='color:#3699ff;font-size:17px'>帮助</font>：查看该设备相关的常见问题及解决办法。

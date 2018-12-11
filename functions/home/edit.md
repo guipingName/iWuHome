@@ -5,7 +5,7 @@
 
 &emsp;&emsp;在编辑家庭页面，点击<font style='color:#ff0000;font-size:20px'>家庭名称</font>，进入编辑页面，输入新的名称后点击保存即可。
 
-<img src="../images/home/修改家庭名称.png" width = "300" height = "534">
+<img src="../images/home/修改家庭名称.png" width = "290" height = "515">
 
 ## 成员验证
 
@@ -15,4 +15,4 @@
 
 &emsp;&emsp;家庭成员列表会显示所有加入到该家庭的成员，您可以左滑删除成员。
 
-<img src="../images/home/删除成员.png" width = "300" height = "534">
+<img src="../images/home/删除成员.png" width = "290" height = "515">

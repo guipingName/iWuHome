@@ -4,15 +4,15 @@
 
 1. <font style='color:#3699ff;font-size:17px'>控制面板</font>：可以查看空调的运行状态，包括开关、室温、湿度、模式、设定温度、风速、电量；可以设置空调的开关、设定温度、模式、风速、定时等等。
 
-	<img src="../images/MacBee/Mini悟空/控制界面.png" width = "290" height = "516">
+	<img src="../images/MacBee/Mini悟空/控制界面.png" width = "262" height = "465">
 	
 2. <font style='color:#3699ff;font-size:17px'>定时器</font>：可以设置预约开机、定时关机、工作时段三种类型的定时器。
 
-	<img src="../images/MacBee/Mini悟空/定时器.png" width = "290" height = "516">
+	<img src="../images/MacBee/Mini悟空/定时器.png" width = "262" height = "465">
 	
 3. <font style='color:#3699ff;font-size:17px'>设备设置</font>：
 
-	<img src="../images/MacBee/Mini悟空/设备设置.png" width = "290" height = "516">
+	<img src="../images/MacBee/Mini悟空/设备设置.png" width = "262" height = "465">
 	
 	1. <font style='color:#3699ff;font-size:17px'>指示灯控制</font>：可以设置指示灯的显示状态。
 	2. <font style='color:#3699ff;font-size:17px'>遥控器同步</font>：该设备和空调遥控器状态是否同步开关。

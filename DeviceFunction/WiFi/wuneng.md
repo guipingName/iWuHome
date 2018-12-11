@@ -4,27 +4,27 @@
 
 1. <font style='color:#3699ff;font-size:17px'>控制面板</font>:您可以对插座进行通电断电操作。
 
-	<img src="../images/WiFi/悟能/控制界面.png" width = "290" height = "516">
+	<img src="../images/WiFi/悟能/控制界面.png" width = "262" height = "465">
 	
 2. <font style='color:#3699ff;font-size:17px'>电量管家</font>:您可以查看近一年的电量以及电量详细信息。查看阶段电量并且可以<font style='color:#ff0000;font-size:20px'>清零</font>。
 
-	<img src="../images/WiFi/悟能/电量管家.png" width = "290" height = "516">
-	<img src="../images/WiFi/悟能/阶段电量.png" width = "290" height = "516">
+	<img src="../images/WiFi/悟能/电量管家.png" width = "262" height = "465">
+	<img src="../images/WiFi/悟能/阶段电量.png" width = "262" height = "465">
 	
 3. <font style='color:#3699ff;font-size:17px'>定时器</font>:您可以最多添加20个定时器来实现通电断电。
 4. <font style='color:#3699ff;font-size:17px'>历史记录</font>：您可以查看智能插座的状态变化。
 
-	<img src="../images/WiFi/悟能/历史记录.png" width = "290" height = "516">
+	<img src="../images/WiFi/悟能/历史记录.png" width = "262" height = "465">
 	
 5. <font style='color:#3699ff;font-size:17px'>设备设置</font>：
 
-	<img src="../images/WiFi/悟能/设备设置.png" width = "290" height = "516">
+	<img src="../images/WiFi/悟能/设备设置.png" width = "262" height = "465">
 
 	1. <font style='color:#3699ff;font-size:17px'>电器选择</font>：我们提供了8种类型供您选择，分别是：饮水机、台灯、风扇、热水器、路由器、冰箱、音响、其它。设置后将显示对应的图标和名称(如果您没有修改名称)，方便查看。
 	2. <font style='color:#3699ff;font-size:17px'>推送通知</font>：该功能开启后，当插座的状态发生变化您将收到推送通知，能及时知道设备状态变化。
 	3. <font style='color:#3699ff;font-size:17px'>指示灯控制</font>：设置指示灯显示。默认情况下通电状态下指示灯会常亮，断电状态下熄灭。
 
-		<img src="../images/WiFi/悟能/指示灯.png" width = "270" height = "360">
+		<img src="../images/WiFi/悟能/指示灯.png" width = "234" height = "312">
 		
 	4. <font style='color:#3699ff;font-size:17px'>远程重启</font>：可以远程重启插座智能设备。
 	5. <font style='color:#3699ff;font-size:17px'>电量管理</font>：您可以设置峰电、谷电时间段。

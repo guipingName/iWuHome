@@ -4,15 +4,15 @@
 
 1. <font style='color:#3699ff;font-size:17px'>控制面板</font>：您可以控制设备的布防和撤防。
 
-	<img src="../images/MacBee/人体感应/控制界面.png" width = "290" height = "516">
+	<img src="../images/MacBee/人体感应/控制界面.png" width = "262" height = "465">
 	
 2. <font style='color:#3699ff;font-size:17px'>历史记录</font>：您可以查看设备的历史记录。
 
-	<img src="../images/MacBee/人体感应/历史记录.png" width = "290" height = "516">
+	<img src="../images/MacBee/人体感应/历史记录.png" width = "262" height = "465">
 	
 3. <font style='color:#3699ff;font-size:17px'>设备设置</font>：
 
-	<img src="../images/MacBee/人体感应/设置.png" width = "290" height = "516">
+	<img src="../images/MacBee/人体感应/设置.png" width = "262" height = "465">
 	
 	1. <font style='color:#3699ff;font-size:17px'>红外报警时间间隔</font>：您可以设置红外报警时间间隔。
 	2. <font style='color:#3699ff;font-size:17px'>帮助</font>：查看该设备的常见问题及解决办法。

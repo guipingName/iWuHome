@@ -5,17 +5,17 @@
 
 1. <font style='color:#3699ff;font-size:17px'>控制面板</font>：您可以设置空调的温度、模式、定时等等。点击右上角的<font style='color:#ff0000;font-size:20px'>更多</font>按钮，您可以查看近24小时的温湿度曲线图。
 
-	<img src="../images/WiFi/悟空/控制界面.png" width = "290" height = "516">
+	<img src="../images/WiFi/悟空/控制界面.png" width = "262" height = "465">
 	
 2. <font style='color:#3699ff;font-size:17px'>电量管家</font>：您可以查看近一年的电量以及详细信息。您还可以查看阶段电量并且可以清零。
 
-	<img src="../images/WiFi/悟空/电量管家.png" width = "290" height = "516">
-	<img src="../images/WiFi/悟空/清零阶段电量.png" width = "290" height = "516">
+	<img src="../images/WiFi/悟空/电量管家.png" width = "262" height = "465">
+	<img src="../images/WiFi/悟空/清零阶段电量.png" width = "262" height = "465">
 	
 3. <font style='color:#3699ff;font-size:17px'>设备设置</font>：
 
-	<img src="../images/WiFi/悟空/设备设置1.png" width = "290" height = "516">
-	<img src="../images/WiFi/悟空/设备设置2.png" width = "290" height = "516">
+	<img src="../images/WiFi/悟空/设备设置1.png" width = "262" height = "465">
+	<img src="../images/WiFi/悟空/设备设置2.png" width = "262" height = "465">
 	
 	1. <font style='color:#3699ff;font-size:17px'>智能恒温</font>：开启该功能后，您可以设置在某一个时间段让空调保持在缪一个温度范围、模式。
 	2. <font style='color:#3699ff;font-size:17px'>温度曲线</font>：开启该功能后，您可以设置在某一个时间段每个时间点的温度、模式。
@@ -25,7 +25,7 @@
 	6. <font style='color:#3699ff;font-size:17px'>童锁</font>：您可以设置童锁功能，禁止小孩使用遥控器控制空调。
 	7. <font style='color:#3699ff;font-size:17px'>指示灯控制</font>：您可以设置指示灯的显示。
 
-		<img src="../images/WiFi/悟空/指示灯.png" width = "270" height = "360">
+		<img src="../images/WiFi/悟空/指示灯.png" width = "234" height = "312">
 		
 	8. <font style='color:#3699ff;font-size:17px'>远程重启</font>：您可以远程重启设备。
 	9. <font style='color:#3699ff;font-size:17px'>电量管理</font>：您可以设置峰谷电时间段，电量清空。
@@ -36,27 +36,27 @@
 
 4. <font style='color:#3699ff;font-size:17px'>历史记录</font>：您可以查看该设备的状态变化记录。
 
-	<img src="../images/WiFi/悟空/历史记录.png" width = "290" height = "516">
+	<img src="../images/WiFi/悟空/历史记录.png" width = "262" height = "465">
 	
 5. <font style='color:#3699ff;font-size:17px'>荣誉排行</font>：您可以查看本周用电、空调温度、开机时长等排行榜，并且可以分享给您的朋友。
 
-	<img src="../images/WiFi/悟空/荣誉排行.png" width = "290" height = "516">
+	<img src="../images/WiFi/悟空/荣誉排行.png" width = "262" height = "465">
 	
 	
 # 机顶盒 #
 
 &emsp;&emsp;如果您用的是智能插座<font style='color:#ff0000;font-size:20px'>增强版</font>，在设备列表页会默认添加一个机顶盒。
 
-<img src="../images/WiFi/悟空/机顶盒.png" width = "300" height = "534">
+<img src="../images/WiFi/悟空/机顶盒.png" width = "290" height = "515">
 
 &emsp;&emsp;点击机顶盒计入控制界面。
 
-<img src="../images/WiFi/悟空/机顶盒控制界面.png" width = "300" height = "534">
+<img src="../images/WiFi/悟空/机顶盒控制界面.png" width = "290" height = "515">
 
 &emsp;&emsp;第一次点击任意按钮后都会跳转到匹配机顶盒页面，匹配完成后才能使用。
 
-<img src="../images/WiFi/悟空/机顶盒匹配.png" width = "300" height = "534">
+<img src="../images/WiFi/悟空/机顶盒匹配.png" width = "290" height = "515">
 
-&emsp;&emsp;匹配完成后，在控制界面长按每一个按钮进行<font style='color:#ff0000;font-size:20px'>学习编码</font>，只有正确学习了编码的按键才能正确控制。您也可以点击右上角的<font style='color:#ff0000;font-size:20px'>+</font>添加按键。
+&emsp;&emsp;匹配完成后，在控制界面长按每一个按钮进行<font style='color:#ff0000;font-size:20px'>学习编码</font>，只有正确学习了编码的按键才能正确控制。您也可以点击右上角的<font style='color:#ff0000;font-size:30px'>+</font>添加按键。
 
-<img src="../images/WiFi/悟空/机顶盒学习编码.png" width = "300" height = "534">
+<img src="../images/WiFi/悟空/机顶盒学习编码.png" width = "290" height = "515">

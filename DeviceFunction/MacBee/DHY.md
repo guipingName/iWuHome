@@ -4,15 +4,15 @@
 
 1. <font style='color:#3699ff;font-size:17px'>实时检测</font>：该设备可以实时检测温度、湿度、烟雾、一氧化碳、亮度、噪音、甲醛、甲烷、水浸、二氧化碳、TVOC、震动、人、PM2.5数据，并显示在控制界面，左右滑动界面即可查看；可以显示电池电量，可以设置当前位置，显示当前城市的天气情况。
 
-	<img src="../images/MacBee/智能环境感知器/控制界面.png" width = "290" height = "516">
+	<img src="../images/MacBee/智能环境感知器/控制界面.png" width = "262" height = "465">
 	
 2. <font style='color:#3699ff;font-size:17px'>历史记录</font>：显示该设备所有检测情况，点击历史记录界面全部按钮即可根据所选项过滤历史记录。
 
-	<img src="../images/MacBee/智能环境感知器/历史记录.png" width = "290" height = "516">
+	<img src="../images/MacBee/智能环境感知器/历史记录.png" width = "262" height = "465">
 	
 3. <font style='color:#3699ff;font-size:17px'>设备设置</font>：
 
-	<img src="../images/MacBee/智能环境感知器/设备设置.png" width = "290" height = "516">
+	<img src="../images/MacBee/智能环境感知器/设备设置.png" width = "262" height = "465">
 
 	1.	<font style='color:#3699ff;font-size:17px'>小夜灯</font>：可以设置指示灯的显示状态。
 	2.	<font style='color:#3699ff;font-size:17px'>人体红外报警时间间隔</font>：设置红外报警的时间间隔在5秒到15分之间。
@@ -23,5 +23,5 @@
 	7.	<font style='color:#3699ff;font-size:17px'>人体红外报警</font>：设置红外报警的开关状态。
 	8.	<font style='color:#3699ff;font-size:17px'>危险气体报警</font>：设置甲烷、烟雾、一氧化碳报警的开关状态。
 	9.	<font style='color:#3699ff;font-size:17px'>有害气体报警</font>：设置甲醛、二氧化碳、TVOC、PM2.5报警的开关状态。
-	10.	<font style='color:#3699ff;font-size:17px'>帮助</font>：可以在这里查看该设备相关的常见问题以及解决办法。
-	11. <font style='color:#3699ff;font-size:17px'>设备信息</font>：可以查看该设备的序列号、版本号等信息。
+	10.	<font style='color:#3699ff;font-size:17px'>帮助</font>：查看该设备相关的常见问题以及解决办法。
+	11. <font style='color:#3699ff;font-size:17px'>设备信息</font>：查看该设备的详细信息。

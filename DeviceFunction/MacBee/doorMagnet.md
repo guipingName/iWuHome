@@ -4,15 +4,15 @@
 
 1. <font style='color:#3699ff;font-size:17px'>控制面板</font>：可以查看智能门磁的运行状态，包括开关、布防撤防状态；可以查看历史记录；可以设置智能门磁的布防撤防状态。
 
-	<img src="../images/MacBee/智能门磁/控制界面.png" width = "290" height = "516">
+	<img src="../images/MacBee/智能门磁/控制界面.png" width = "262" height = "465">
 	
 2.	<font style='color:#3699ff;font-size:17px'>历史记录</font>：记录智能门磁的开关及报警等操作。
 
-	<img src="../images/MacBee/智能门磁/历史记录.png" width = "290" height = "516">
+	<img src="../images/MacBee/智能门磁/历史记录.png" width = "262" height = "465">
 	
 3.	<font style='color:#3699ff;font-size:17px'>设备设置</font>：
 
-	<img src="../images/MacBee/智能门磁/历史记录.png" width = "290" height = "516">
+	<img src="../images/MacBee/智能门磁/历史记录.png" width = "262" height = "465">
 	
 	1. <font style='color:#3699ff;font-size:17px'>报警声音</font>：可以设置该设备报警的铃声及音量。
 	2. <font style='color:#3699ff;font-size:17px'> 帮助 </font>：查看该设备相关的常见问题以及解决办法。

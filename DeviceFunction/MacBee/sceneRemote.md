@@ -4,15 +4,15 @@
 
 1. <font style='color:#3699ff;font-size:17px'>控制面板</font>：显示按键、历史记录、电池电量，未添加联动的按键可以点击按钮按照步骤添加联动，已添加联动的按键可以点击按钮执行联动。
 
-	<img src="../images/MacBee/情景遥控器/控制面板.png" width = "290" height = "516">
+	<img src="../images/MacBee/情景遥控器/控制面板.png" width = "262" height = "465">
 	
 2. <font style='color:#3699ff;font-size:17px'>历史记录</font>：显示该设备操作的记录。
 
-	<img src="../images/MacBee/情景遥控器/历史记录.png" width = "290" height = "516">
+	<img src="../images/MacBee/情景遥控器/历史记录.png" width = "262" height = "465">
 	
 3. <font style='color:#3699ff;font-size:17px'>设备设置</font>：
 
-	<img src="../images/MacBee/情景遥控器/设备设置.png" width = "290" height = "516">
+	<img src="../images/MacBee/情景遥控器/设备设置.png" width = "262" height = "465">
 	
 	1.	<font style='color:#3699ff;font-size:17px'>重命名</font>：对按键重新命名。
 	2.	<font style='color:#3699ff;font-size:17px'>创建桌面快捷方式(安卓版本支持)</font>：会在手机桌面生成一个设备的快捷入口。
