@@ -32,6 +32,8 @@
 * [设备功能说明](DeviceFunction/README.md)
     * [Wi-Fi设备](DeviceFunction/WiFi/README.md)
         * [空调插座](DeviceFunction/WiFi/wukong.md)
+        * [温控器](DeviceFunction/WiFi/centralAir.md)
+        * [智能温控器](DeviceFunction/WiFi/linkon.md)
         * [智能插座](DeviceFunction/WiFi/wuneng.md)
         * [灯](DeviceFunction/WiFi/light.md)
         * [窗帘](DeviceFunction/WiFi/curtain.md)
@@ -69,7 +71,5 @@
         * [智能暗锁](DeviceFunction/MacBee/lock.md)
 * [常见使用问题](FAQ/README.md)
     * [设备](FAQ/deviceHelp.md)
-    * [情景模式](FAQ/sceneHelp.md)
     * [联动](FAQ/interpalyHelp.md)
-    * [语音控制](FAQ/voiceHelp.md)
 

@@ -14,10 +14,10 @@
 
 	<img src="../images/MacBee/智能暗锁/设置.png" width = "262" height = "465">
 
-	1. <font style='color:#3699ff;font-size:17px'>接入Wi-Fi开锁</font>：启用改功能后，在08:00~24:00手机连接同一WiFi自动开锁。
-	2. <font style='color:#3699ff;font-size:17px'>断开Wi-Fi关锁</font>：启用改功能后，在08:00~24:00手机连接同一WiFi自动关锁。
-	3. <font style='color:#3699ff;font-size:17px'>推送报警提醒</font>：启用该功能后，设备报警时您将受到推送信息。
+	1. <font style='color:#3699ff;font-size:17px'>接入Wi-Fi开锁</font>：启用改功能后，在08:00~24:00手机连接同一Wi-Fi自动开锁。
+	2. <font style='color:#3699ff;font-size:17px'>断开Wi-Fi关锁</font>：启用改功能后，在08:00~24:00手机连接同一Wi-Fi自动关锁。
+	3. <font style='color:#3699ff;font-size:17px'>推送报警提醒</font>：启用该功能后，设备报警时您将收到推送信息。
 	4. <font style='color:#3699ff;font-size:17px'>门未关好报警提醒</font>：启用该功能后，在门未关的情况下你会收到推送信息，同时您可以设置间隔时间。
-	5. <font style='color:#3699ff;font-size:17px'>遥控器管理</font>：
+	5. <font style='color:#3699ff;font-size:17px'>遥控器管理</font>：可以进行遥控器的挂失、解除挂失、删除。
 	6. <font style='color:#3699ff;font-size:17px'>帮助</font>：查看该设备的常见问题及解决方法。
 	7. <font style='color:#3699ff;font-size:17px'>设备信息</font>：查看该设备的详细信息。

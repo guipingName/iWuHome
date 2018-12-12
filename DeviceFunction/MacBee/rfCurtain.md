@@ -2,7 +2,7 @@
 
 &emsp;&emsp;在设备列表或者标签界面点击进入控制界面。您将看到<font style='color:#ff0000;font-size:20px'>控制面板</font>、<font style='color:#ff0000;font-size:20px'>定时设置</font>、<font style='color:#ff0000;font-size:20px'>设备设置</font>界面。
 
-1. <font style='color:#3699ff;font-size:17px'>控制面板</font>：控制窗帘的开启状态，全开、全关、开窗百分比。
+1. <font style='color:#3699ff;font-size:17px'>控制面板</font>：控制窗帘，您可以滑动滑条或者点击<font style='color:#ff0000;font-size:20px'>⇧⇩</font>和<font style='color:#ff0000;font-size:20px'> || </font>按钮来控制窗帘。
 
 	<img src="../images/MacBee/窗帘/控制界面.png" width = "262" height = "465">
 	

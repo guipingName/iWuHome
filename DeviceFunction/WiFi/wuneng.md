@@ -1,19 +1,19 @@
 # 智能插座
 
-&emsp;&emsp;在设备列表或标签页面点击智能插座进入控制界面。您将看到<font style='color:#ff0000;font-size:20px'>控制面板</font>、<font style='color:#ff0000;font-size:20px'>电量管家</font>、<font style='color:#ff0000;font-size:20px'>定时器</font>、<font style='color:#ff0000;font-size:20px'>历史记录(部分设备支持)</font>、<font style='color:#ff0000;font-size:20px'>设备设置</font>界面。
+&emsp;&emsp;在设备列表或标签页面点击智能插座进入控制界面。您将看到<font style='color:#ff0000;font-size:20px'>控制面板</font>、<font style='color:#ff0000;font-size:20px'>电量管家</font>、<font style='color:#ff0000;font-size:20px'>定时器</font>、<font style='color:#ff0000;font-size:20px'>历史记录</font>、<font style='color:#ff0000;font-size:20px'>设备设置</font>界面。
 
-1. <font style='color:#3699ff;font-size:17px'>控制面板</font>:您可以对插座进行通电断电操作。
+1. <font style='color:#3699ff;font-size:17px'>控制面板</font>:您可以控制插座的通电或断电。
 
 	<img src="../images/WiFi/悟能/控制界面.png" width = "262" height = "465">
 	
-2. <font style='color:#3699ff;font-size:17px'>电量管家</font>:您可以查看近一年的电量以及电量详细信息。查看阶段电量并且可以<font style='color:#ff0000;font-size:20px'>清零</font>。
+2. <font style='color:#3699ff;font-size:17px'>电量管家(部分设备支持)</font>:您可以查看近一年的电量以及电量详细信息。查看阶段电量并且可以<font style='color:#ff0000;font-size:20px'>清零</font>。
 
 	<img src="../images/WiFi/悟能/电量管家.png" width = "262" height = "465">
 	
 	<img src="../images/WiFi/悟能/阶段电量.png" width = "262" height = "465">
 	
-3. <font style='color:#3699ff;font-size:17px'>定时器</font>:您可以最多添加20个定时器来实现通电断电。
-4. <font style='color:#3699ff;font-size:17px'>历史记录</font>：您可以查看智能插座的状态变化。
+3. <font style='color:#3699ff;font-size:17px'>定时器</font>:可以添加定时器来实现通电或断电。
+4. <font style='color:#3699ff;font-size:17px'>历史记录(部分设备支持)</font>：您可以查看智能插座的状态变化。
 
 	<img src="../images/WiFi/悟能/历史记录.png" width = "262" height = "465">
 	

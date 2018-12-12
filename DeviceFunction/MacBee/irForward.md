@@ -8,4 +8,4 @@
 
 	<img src="../images/MacBee/红外转发器/匹配类型.png" width = "262" height = "465">
 	
-2. 选择<font style='color:#ff0000;font-size:20px'>匹配类型</font>选项，进入匹配界面，按照提示操作完成匹配，即可用该设备控制空调
+2. 选择<font style='color:#ff0000;font-size:20px'>匹配类型</font>选项，进入匹配界面，按照提示操作完成匹配，即可用该设备控制空调。
