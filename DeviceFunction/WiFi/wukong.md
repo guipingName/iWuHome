@@ -3,7 +3,7 @@
 &emsp;&emsp;在设备列表或标签界面点击空调插座进入设备控制界面。
 您将看到<font style='color:#ff0000;font-size:20px'>遥控面板</font>、<font style='color:#ff0000;font-size:20px'>电量管家</font>、<font style='color:#ff0000;font-size:20px'>设备设置</font>、<font style='color:#ff0000;font-size:20px'>历史记录</font>、<font style='color:#ff0000;font-size:20px'>荣誉排行</font>。
 
-1. <font style='color:#3699ff;font-size:17px'>控制面板</font>：您可以设置空调的温度、模式、定时等等。点击右上角的<font style='color:#ff0000;font-size:20px'>更多</font>按钮，您可以查看近24小时的温湿度曲线图。
+1. <font style='color:#3699ff;font-size:17px'>控制面板</font>：您可以设置空调的温度、模式、定时等等。点击右上角的<font style='color:#ff0000;font-size:20px'> ⋮ </font>按钮，您可以查看近24小时的温湿度曲线图。
 
 	<img src="../images/WiFi/悟空/控制界面.png" width = "262" height = "465">
 	

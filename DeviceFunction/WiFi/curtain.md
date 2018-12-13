@@ -1,4 +1,4 @@
-# 窗帘
+# 智能窗帘
 
 &emsp;&emsp;在设备列表或者标签界面点击进入控制界面。您将看到<font style='color:#ff0000;font-size:20px'>控制面板</font>、<font style='color:#ff0000;font-size:20px'>定时设置</font>、<font style='color:#ff0000;font-size:20px'>设备设置</font>3个界面。
 

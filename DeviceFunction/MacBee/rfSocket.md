@@ -1,9 +1,9 @@
-# RF插座
+# 插座
 
 &emsp;&emsp;在设备列表或标签页面点击智能插座进入控制界面。您将看到<font style='color:#ff0000;font-size:20px'>控制面板</font>、<font style='color:#ff0000;font-size:20px'>电量管家</font>、<font style='color:#ff0000;font-size:20px'>定时器</font>、<font style='color:#ff0000;font-size:20px'>设备设置</font>界面。
 
-1. <font style='color:#3699ff;font-size:17px'>控制面板</font>:设置插座的通电断电。
-2. <font style='color:#3699ff;font-size:17px'>电量管家</font>:查看近4个月的用电量。点击右侧的<font style='color:#ff0000;font-size:20px'>更多</font>按钮，可以查看近1年的用电量以及详细信息。
+1. <font style='color:#3699ff;font-size:17px'>控制面板</font>:可以控制插座的通电或断电。
+2. <font style='color:#3699ff;font-size:17px'>电量管家</font>:查看近4个月的用电量。点击右侧的<font style='color:#ff0000;font-size:20px'>⋮☰</font>按钮，可以查看近1年的用电量以及详细信息。
 
 	<img src="../images/MacBee/rf插座/电量.png" width = "262" height = "465">
 	

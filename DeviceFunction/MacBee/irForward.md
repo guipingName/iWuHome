@@ -4,7 +4,7 @@
 
 ## 匹配类型 ##
 
-1. 在空调面板界面点击<font style='color:#ff0000;font-size:20px'>⋮</font>按钮，即可看到<font style='color:#ff0000;font-size:20px'>匹配类型</font>选项。
+1. 在空调面板界面点击<font style='color:#ff0000;font-size:20px'> ⋮ </font>按钮，即可看到<font style='color:#ff0000;font-size:20px'>匹配类型</font>选项。
 
 	<img src="../images/MacBee/红外转发器/匹配类型.png" width = "262" height = "465">
 	
