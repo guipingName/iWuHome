@@ -1,6 +1,6 @@
-# 暖气阀
+# 智能暖气阀
 
-&emsp;&emsp;在设备列表或者标签界面点击暖气阀进入控制界面。您将看到<font style='color:#ff0000;font-size:20px'>控制面板</font>、<font style='color:#ff0000;font-size:20px'>智能设置</font>界面。
+&emsp;&emsp;在设备列表或者标签界面点击智能暖气阀进入控制界面。您将看到<font style='color:#ff0000;font-size:20px'>控制面板</font>、<font style='color:#ff0000;font-size:20px'>智能设置</font>界面。
 
 1. <font style='color:#3699ff;font-size:17px'>控制面板</font>：可以设置暖气阀的温度，定时等等。
 
