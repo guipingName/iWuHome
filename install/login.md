@@ -36,7 +36,7 @@
  
 <img src="./images/login/密码1.png" width = "290" height = "515">
     
-&emsp;&emsp;点击<font style='color:#ff0000;font-size:20px'>修改密码</font>按钮即可进入修改密码界面，按照要求输入旧密码和新密码，最后点击<font style='color:#ff0000;font-size:20px'>确定</font>按钮即可成功修改密码。
+&emsp;&emsp;点击<font style='color:#ff0000;font-size:20px'>修改密码</font>按钮即可进入修改密码界面，输入旧密码和新密码，点击<font style='color:#ff0000;font-size:20px'>确定</font>按钮即可成功修改密码。
 
 <img src="./images/login/密码2.png" width = "290" height = "515">
 
@@ -47,6 +47,6 @@
 
 <img src="./images/login/密码3.png" width = "290" height = "515">
     
-&emsp;&emsp;按要求输入已有用户名和用户所绑定的邮箱，点击<font style='color:#ff0000;font-size:20px'>重置密码</font>即可成功重置密码。
+&emsp;&emsp;输入已有用户名和用户所绑定的邮箱，点击<font style='color:#ff0000;font-size:20px'>重置密码</font>即可成功重置密码。
 
 <img src="./images/login/密码5.png" width = "290" height = "515">

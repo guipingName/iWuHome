@@ -1,6 +1,6 @@
 # 分享家庭
 
-1. 点击设备列表页或智能联动界面右上方的<font style='color:#ff0000;font-size:20px'>分享</font>图标，打开分享界面，通过显示的二维码即可将家庭分享给其他用户使用。
+1. 点击设备列表页或智能联动界面右上方的<font style='color:#ff0000;font-size:20px'>分享</font>图标，打开分享界面，通过显示的二维码即可将家庭分享给其他用户。
 
 	<img src="../images/home/家庭1.png" width = "262" height = "465">
 	

@@ -1,4 +1,4 @@
-# 删除
+# 删除设备
 
 1. 在设备列表界面左滑设备即可看到<font style='color:#ff0000;font-size:20px'>编辑</font>按钮。
 

@@ -1,6 +1,4 @@
-# 添加
-
-## 添加Wi-Fi设备
+# 添加Wi-Fi设备
 
 1. Wi-Fi设备在通电状态下，长按<font style='color:#ff0000;font-size:20px'>Reset</font>按钮(可以参考设备说明书)，直到红灯闪烁，设备恢复出厂。
 2. 手机先连接Wi-Fi网络，然后点击悟家App首页右上角的<font style='color:#ff0000;font-size:30px'>+</font>按钮，选择<font style='color:#ff0000;font-size:20px'>添加设备</font>。
@@ -12,7 +10,7 @@
     <img src="../images/device/一键配置.png" width = "262" height = "465">
 
 
-## 添加MacBee设备
+# 添加MacBee设备
 
 &emsp;&emsp;MacBee设备需要配合网关使用，如果您的家庭中有网关，请按照下面的步骤添加，如果没有，请先添加网关。
 
