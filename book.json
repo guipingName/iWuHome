@@ -2,7 +2,6 @@
   "language" : "zh-hans",
   "plugins" : [
     "-sharing",
-    "toggle-chapters",
     "-search",
     "search-pro",
     "favicon"
@@ -24,5 +23,5 @@
   "styles" : {
     "website" : "styles/website.css"
   },
-  "title" : "悟家APP操作指南"
+  "title" : "悟家App操作指南"
 }

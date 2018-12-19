@@ -1,7 +1,7 @@
-# 空调插座
+# 悟空
 
-&emsp;&emsp;在设备列表或标签界面点击空调插座进入设备控制界面。
-您将看到<font style='color:#ff0000;font-size:20px'>遥控面板</font>、<font style='color:#ff0000;font-size:20px'>电量管家</font>、<font style='color:#ff0000;font-size:20px'>设备设置</font>、<font style='color:#ff0000;font-size:20px'>历史记录</font>、<font style='color:#ff0000;font-size:20px'>荣誉排行</font>。
+&emsp;&emsp;在设备列表或标签界面点击悟空进入设备控制界面。
+您将看到<font style='color:#ff0000;font-size:20px'>遥控面板</font>、<font style='color:#ff0000;font-size:20px'>电量管家</font>、<font style='color:#ff0000;font-size:20px'>设备设置</font>、<font style='color:#ff0000;font-size:20px'>历史记录</font>、<font style='color:#ff0000;font-size:20px'>荣誉排行</font>界面。
 
 1. <font style='color:#3699ff;font-size:17px'>控制面板</font>：您可以设置空调的温度、模式、定时等等。点击右上角的<font style='color:#ff0000;font-size:20px'> ⋮ </font>按钮，您可以查看近24小时的温湿度曲线图。
 
@@ -23,7 +23,7 @@
 	1. <font style='color:#3699ff;font-size:17px'>智能恒温</font>：可以设置在某一时间段让空调保持在某一温度范围、模式。
 	2. <font style='color:#3699ff;font-size:17px'>温度曲线(部分设置支持)</font>：可以设置在某一个时间段不同时间点的温度、模式。
 	3. <font style='color:#3699ff;font-size:17px'>智能睡眠</font>：可以让空调进入睡眠状态，可以省电。
-	4. <font style='color:#3699ff;font-size:17px'>定时器</font>：可以添加2定时器来控制空调。
+	4. <font style='color:#3699ff;font-size:17px'>定时器</font>：可以添加定时器来控制空调。
 	5. <font style='color:#3699ff;font-size:17px'>推送通知(部分设置支持)</font>：开启该功能后，设备的状态发生变化时您将收到推送信息。
 	6. <font style='color:#3699ff;font-size:17px'>童锁</font>：该功能启用时，部分按钮会暂时失去控制功能，避免了儿童因好奇误操作而导致的危险。
 	7. <font style='color:#3699ff;font-size:17px'>指示灯控制</font>：可以设置指示灯的显示。
@@ -50,7 +50,7 @@
 	
 # 机顶盒 #
 
-&emsp;&emsp;如果您用的是<font style='color:#ff0000;font-size:20px'>空调插座增强版</font>，在设备列表会同时显示一个机顶盒。
+&emsp;&emsp;如果您用的是<font style='color:#ff0000;font-size:20px'>悟空增强版</font>，在设备列表会同时显示一个机顶盒。
 
 <img src="../images/WiFi/悟空/机顶盒.png" width = "290" height = "515">
 
