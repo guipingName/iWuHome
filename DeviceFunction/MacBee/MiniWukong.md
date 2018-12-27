@@ -1,6 +1,6 @@
-# Mini悟空
+# 空调随意贴
 
-&emsp;&emsp;在设备列表或标签界面点击Mini悟空进入控制界面。 将看到<font style='color:#ff0000;font-size:20px'>控制面板</font>、<font style='color:#ff0000;font-size:20px'>定时器</font>、<font style='color:#ff0000;font-size:20px'>设备设置</font>界面。
+&emsp;&emsp;在设备列表或标签界面点击空调随意贴进入控制界面。 将看到<font style='color:#ff0000;font-size:20px'>控制面板</font>、<font style='color:#ff0000;font-size:20px'>定时器</font>、<font style='color:#ff0000;font-size:20px'>设备设置</font>界面。
 
 1. <font style='color:#3699ff;font-size:17px'>控制面板</font>：可以查看空调的运行状态，包括开关、室温、湿度、模式、设定温度、风速、电量；可以设置空调的开关、设定温度、模式、风速、定时等等。
 

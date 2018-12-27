@@ -1,4 +1,4 @@
-# 荷马锁
+# 智能门锁1型
 
 &emsp;&emsp;在设备列表或标签界面点击云智能门锁进入输入密码界面，输入正确密码后才能进入设备控制界面，将看到<font style='color:#ff0000;font-size:20px'>历史记录</font>、<font style='color:#ff0000;font-size:20px'>临时密码</font>、<font style='color:#ff0000;font-size:20px'>用户管理</font>、<font style='color:#ff0000;font-size:20px'>设备信息</font>。
 
